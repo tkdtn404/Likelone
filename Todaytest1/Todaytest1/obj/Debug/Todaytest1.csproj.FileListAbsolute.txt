@@ -1,0 +1,7 @@
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Todaytest1\Todaytest1\bin\Debug\Todaytest1.exe.config
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Todaytest1\Todaytest1\bin\Debug\Todaytest1.exe
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Todaytest1\Todaytest1\bin\Debug\Todaytest1.pdb
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Todaytest1\Todaytest1\obj\Debug\Todaytest1.csproj.AssemblyReference.cache
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Todaytest1\Todaytest1\obj\Debug\Todaytest1.csproj.CoreCompileInputs.cache
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Todaytest1\Todaytest1\obj\Debug\Todaytest1.exe
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Todaytest1\Todaytest1\obj\Debug\Todaytest1.pdb
