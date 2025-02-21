@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tkdtn\\Documents\\GitHub\\Likelone\\Likelone\\Likelone\\202502.21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E18854D-939D-446D-BE63-6B1064AF5B9B}|202502.21\\202502.21.csproj|c:\\users\\tkdtn\\documents\\github\\likelone\\likelone\\likelone\\202502.21\\202502.21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E18854D-939D-446D-BE63-6B1064AF5B9B}|202502.21\\202502.21.csproj|solutionrelative:202502.21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tkdtn\\Documents\\GitHub\\Likelone\\Likelone\\Likelone\\202502.21\\202502.21\\Program.cs",
+              "RelativeDocumentMoniker": "202502.21\\Program.cs",
+              "ToolTip": "C:\\Users\\tkdtn\\Documents\\GitHub\\Likelone\\Likelone\\Likelone\\202502.21\\202502.21\\Program.cs",
+              "RelativeToolTip": "202502.21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:00:28.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

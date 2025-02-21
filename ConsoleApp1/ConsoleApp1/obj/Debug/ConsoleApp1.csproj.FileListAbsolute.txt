@@ -1,0 +1,2 @@
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
