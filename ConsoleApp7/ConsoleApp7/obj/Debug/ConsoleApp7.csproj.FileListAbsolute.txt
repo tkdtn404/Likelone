@@ -1,0 +1,7 @@
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
