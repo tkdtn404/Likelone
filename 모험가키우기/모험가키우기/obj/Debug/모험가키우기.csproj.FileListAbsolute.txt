@@ -1,0 +1,7 @@
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\모험가키우기\모험가키우기\bin\Debug\모험가키우기.exe.config
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\모험가키우기\모험가키우기\bin\Debug\모험가키우기.exe
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\모험가키우기\모험가키우기\bin\Debug\모험가키우기.pdb
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\모험가키우기\모험가키우기\obj\Debug\모험가키우기.csproj.AssemblyReference.cache
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\모험가키우기\모험가키우기\obj\Debug\모험가키우기.csproj.CoreCompileInputs.cache
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\모험가키우기\모험가키우기\obj\Debug\모험가키우기.exe
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\모험가키우기\모험가키우기\obj\Debug\모험가키우기.pdb

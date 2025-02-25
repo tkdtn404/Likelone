@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tkdtn\\Documents\\GitHub\\Likelone\\Likelone\\Likelone\\ConsoleApp10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF4A5FA-042C-40FE-A251-6E374AB38D6E}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\tkdtn\\documents\\github\\likelone\\likelone\\likelone\\consoleapp10\\consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF4A5FA-042C-40FE-A251-6E374AB38D6E}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tkdtn\\Documents\\GitHub\\Likelone\\Likelone\\Likelone\\ConsoleApp10\\ConsoleApp10\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\Program.cs",
+              "ToolTip": "C:\\Users\\tkdtn\\Documents\\GitHub\\Likelone\\Likelone\\Likelone\\ConsoleApp10\\ConsoleApp10\\Program.cs",
+              "RelativeToolTip": "ConsoleApp10\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:11:45.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
