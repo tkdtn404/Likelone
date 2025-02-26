@@ -1,0 +1,7 @@
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\Bingo\Bingo\obj\Debug\Bingo.pdb
