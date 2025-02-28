@@ -1,0 +1,7 @@
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ShootingGame1\ShootingGame1\bin\Debug\ShootingGame1.exe.config
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ShootingGame1\ShootingGame1\bin\Debug\ShootingGame1.exe
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ShootingGame1\ShootingGame1\bin\Debug\ShootingGame1.pdb
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ShootingGame1\ShootingGame1\obj\Debug\ShootingGame1.csproj.AssemblyReference.cache
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ShootingGame1\ShootingGame1\obj\Debug\ShootingGame1.csproj.CoreCompileInputs.cache
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ShootingGame1\ShootingGame1\obj\Debug\ShootingGame1.exe
+C:\Users\tkdtn\Documents\GitHub\Likelone\Likelone\Likelone\ShootingGame1\ShootingGame1\obj\Debug\ShootingGame1.pdb
