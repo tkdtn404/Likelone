@@ -6,7 +6,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShootingGame
+namespace ShootingGame1
 {
     //미사일 클래스
     public class BULLET
